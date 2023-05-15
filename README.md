@@ -1,9 +1,6 @@
 # 秒杀
 电商网站的秒杀
 
-## 微信扫一扫关注公众号：爪哇优太儿
-![扫一扫加关注](https://github.com/xjs1919/miaosha/blob/master/qrcode.jpg)
-
 ## 技术架构
 SpringBoot + Redis + RabbitMQ
 
